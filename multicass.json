@@ -4,12 +4,12 @@
   "description": "MultiCass",
   "sensitive_content": false,
   "collection": {
-    "name": "MultiCass",
-    "id": "f5d40bcc-46b5-42d5-9554-50fd2eb55159",
+    "name": "Cass 1/1s",
+    "id": "c35d0958-5058-4fde-8329-ba36959263bb",
     "attributes": [
       {
         "type": "description",
-        "value": "I See You."
+        "value": "Single Editions Only"
       },
       {
         "type": "twitter",
