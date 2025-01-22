@@ -1,27 +1,27 @@
 {
   "format": "CHIP-0007",
-  "name": "Chia Halving Timer",
-  "description": "Chia Halving Timer",
+  "name": "MultiCass",
+  "description": "MultiCass",
   "sensitive_content": false,
   "collection": {
-    "name": "Chia Halving Timer",
-    "id": "bb41de33-9d61-4c44-b254-f30e0f51191d",
+    "name": "MultiCass",
+    "id": "f5d40bcc-46b5-42d5-9554-50fd2eb55159",
     "attributes": [
       {
         "type": "description",
-        "value": "Dynamic NFT. Each NFT points to an html page keeping track of the current halving schedule. Open Edition collection minted by batches of 100."
+        "value": "I See You."
       },
       {
         "type": "twitter",
-        "value": "@CF_Lost_Gifs"
+        "value": "@CassXCH"
       },
       {
         "type": "icon",
-        "value": "https://bafybeibclqy4g2cvsu3uziifyqjp34mevjwvvtd5ctfdbgej77rdpcxhsq.ipfs.nftstorage.link/gif.gif"
+        "value": "https://raw.githubusercontent.com/CassFairiesClub/multicass/6cbb7a023b3d5acfa8d513f64cf53d0fd8c25b64/multicass.png"
       },
       {
         "type": "banner",
-        "value": "https://bafybeignwvynap5ckf6tvwckag7lzydk4abhhzpqta6cu6zwwqusolplwa.ipfs.nftstorage.link/banner.png"
+        "value": "https://raw.githubusercontent.com/CassFairiesClub/multicass/6cbb7a023b3d5acfa8d513f64cf53d0fd8c25b64/multicass_banner.png"
       }
     ]
   },
